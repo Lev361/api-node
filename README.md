@@ -53,12 +53,13 @@ $ npm start
 ```
 ## Tecnologias
 
-# NodeJs
-# ExpressJs
-# MongoDb
-# JWT
-# Bcrypt
+<p>NodeJs</p>
+<p>ExpressJs</p>
+<p>MongoDb</p>
+<p>JWT</p>
+<p>Bcryptjs</p>
+
 
 ## License
 
-# Creatig by LeviOtachi
+<p align="center">Creatig by LeviOtachi</p>
