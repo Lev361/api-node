@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	🔐API Rest NodeJS com JWT.
+	🔐API Rest NodeJS Com Autenticação JWT.
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lev361/api-node?color=%2304D361">
@@ -18,13 +18,6 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Lev361/api-node">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
-
-
-<p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>
 </p>
 
 ## 📋 Projeto
