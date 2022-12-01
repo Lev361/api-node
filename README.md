@@ -53,7 +53,7 @@ $ npm start
 ```
 ## Tecnologias
 
-<p>NodeJs</p>
+<p>:nodejs NodeJs</p>
 <p>ExpressJs</p>
 <p>MongoDb</p>
 <p>JWT</p>
