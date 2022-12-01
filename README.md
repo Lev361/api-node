@@ -2,12 +2,12 @@
 	🔐API Rest NodeJS com JWT.
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yuriduarte/API-Rest-NodeJS?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lev361/api-node?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Lev361/api-node">
 	
   <a href="https://www.linkedin.com/in/levi-maycon-298687216/">
-    <img alt="Made by Levi" src="https://img.shields.io/badge/made%20by-LeviOtachi-%2304D361">
+    <img alt="Made by Levi" src="https://img.shields.io/badge/made%20by-Lev361-%2304D361">
   </a>
 
   <a href="https://github.com/Lev361/api-node//commits/master">
