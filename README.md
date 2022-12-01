@@ -4,18 +4,18 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yuriduarte/API-Rest-NodeJS?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/yuriduarte/API-Rest-NodeJS">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Lev361/api-node">
 	
-  <a href="https://www.linkedin.com/in/yuriduarte/">
-    <img alt="Made by yuriduarte" src="https://img.shields.io/badge/made%20by-yuriduarte-%2304D361">
+  <a href="https://www.linkedin.com/in/levi-maycon-298687216/">
+    <img alt="Made by Levi" src="https://img.shields.io/badge/made%20by-LeviOtachi-%2304D361">
   </a>
 
-  <a href="https://github.com/yuriduarte/API-Rest-NodeJS/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yuriduarte/API-Rest-NodeJS">
+  <a href="https://github.com/Lev361/api-node//commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lev361/api-node">
   </a>
 
-  <a href="https://github.com/yuriduarte/API-Rest-NodeJS/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/yuriduarte/API-Rest-NodeJS">
+  <a href="https://github.com/Lev361/api-node//issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Lev361/api-node">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -51,3 +51,14 @@ $ npm install
 # Rode a aplicação
 $ npm start
 ```
+## Tecnologias
+
+# NodeJs
+# ExpressJs
+# MongoDb
+# JWT
+# Bcrypt
+
+## License
+
+# Creatig by LeviOtachi
