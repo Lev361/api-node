@@ -24,7 +24,6 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">Licença</a>
 </p>
 
@@ -40,10 +39,10 @@ Na sua linha de comando:
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/yuriduarte/API-Rest-NodeJS.git
+$ git clone https://github.com/Lev361/api-node.git
 
 # Vá para o repositório Back-end
-$ cd API-Rest-NodeJS
+$ cd api-node
 
 # Instale as dependencias
 $ npm install
@@ -51,15 +50,7 @@ $ npm install
 # Rode a aplicação
 $ npm start
 ```
-## Tecnologias
-
-<p>:nodejs NodeJs</p>
-<p>ExpressJs</p>
-<p>MongoDb</p>
-<p>JWT</p>
-<p>Bcryptjs</p>
-
 
 ## License
 
-<p align="center">Creatig by LeviOtachi</p>
+<p align="center">Creatig by Levi</p>
